@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="datastorage" max_length="40" name="x_mcphs_test_datastorage" type="collection"/>
+</database>

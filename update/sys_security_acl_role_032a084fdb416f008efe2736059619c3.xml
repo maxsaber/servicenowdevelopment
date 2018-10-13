@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>max.saber</sys_created_by>
+        <sys_created_on>2018-10-13 20:05:09</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>032a084fdb416f008efe2736059619c3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_mcphs_test_datastorage.x_mcphs_test.datastorage_user</sys_name>
+        <sys_package display_value="Test" source="x_mcphs_test">6649404fdb416f008efe2736059619eb</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Test">6649404fdb416f008efe2736059619eb</sys_scope>
+        <sys_security_acl display_value="x_mcphs_test_datastorage">c72a084fdb416f008efe2736059619c0</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_032a084fdb416f008efe2736059619c3</sys_update_name>
+        <sys_updated_by>max.saber</sys_updated_by>
+        <sys_updated_on>2018-10-13 20:05:09</sys_updated_on>
+        <sys_user_role display_value="x_mcphs_test.datastorage_user" name="x_mcphs_test.datastorage_user">362a444fdb416f008efe2736059619f5</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

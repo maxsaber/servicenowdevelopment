@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_mcphs_test.datastorage_user" name="x_mcphs_test.datastorage_user">362a444fdb416f008efe2736059619f5</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>max.saber</sys_created_by>
+        <sys_created_on>2018-10-13 20:05:09</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>362a444fdb416f008efe2736059619f7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>362a444fdb416f008efe2736059619f5</sys_name>
+        <sys_package display_value="Test" source="x_mcphs_test">6649404fdb416f008efe2736059619eb</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Test">6649404fdb416f008efe2736059619eb</sys_scope>
+        <sys_update_name>sys_embedded_help_role_362a444fdb416f008efe2736059619f7</sys_update_name>
+        <sys_updated_by>max.saber</sys_updated_by>
+        <sys_updated_on>2018-10-13 20:05:09</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
